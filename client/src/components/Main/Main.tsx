@@ -28,7 +28,7 @@ const Main = () => {
                     </div>
                 </Col>
                 <Col>
-                    
+
                 </Col>
             </Row>
         </Container>
